@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591920879144",
+    "firebase_url": "https://merisadak2-4b163.firebaseio.com",
+    "project_id": "merisadak2-4b163",
+    "storage_bucket": "merisadak2-4b163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591920879144:android:41f0f795e6a226bf",
+        "android_client_info": {
+          "package_name": "com.example.abhinav.merisadak2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591920879144-hd3fiv26k0c9fea7322f4jsq90kimotb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhinav.merisadak2",
+            "certificate_hash": "f4cd76f3d34e7263a16d60732241da68a03cdd88"
+          }
+        },
+        {
+          "client_id": "591920879144-u6lc23460890o8791sonfba9kn3r5ehs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzWlvUPqBF4r8BnFp3Uvft2lCreG0KJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591920879144-u6lc23460890o8791sonfba9kn3r5ehs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
